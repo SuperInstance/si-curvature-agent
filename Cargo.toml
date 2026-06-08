@@ -1,0 +1,6 @@
+[package]
+name = "si-curvature-agent"
+version = "0.1.0"
+edition = "2021"
+description = "Ollivier-Ricci curvature on agent interaction graphs — predicts fleet convergence"
+license = "MIT"
